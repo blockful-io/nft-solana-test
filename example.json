@@ -1,0 +1,9 @@
+{
+    "name": "KycDAO",
+    "symbol": "KYCD",
+    "description": "A test for our NFT example.",
+    "external_url": "",
+    "edition": "",
+    "background_color": "000000",
+    "image": "https://raw.githubusercontent.com/blockful-io/nft-solana-test/main/kycdao.png"
+}
